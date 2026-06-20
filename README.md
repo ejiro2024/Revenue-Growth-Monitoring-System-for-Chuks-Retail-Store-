@@ -131,7 +131,7 @@ Clean Data
 
 ## Conclusion
 
-To successfully replicate and scale the performance of the current store, it is critical that Chuks does not rely on intuition alone but adopts a data-driven expansion strategy.
+To successfully scale the performance of the new store, it is critical that Chuks does not rely on intuition alone but adopts a data-driven expansion strategy.
 
 **Immediate Action Steps:**
 - Prioritize stocking the top-performing product categories and best-selling items identified in this analysis  
