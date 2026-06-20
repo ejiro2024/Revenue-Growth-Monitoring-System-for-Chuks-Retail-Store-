@@ -12,7 +12,7 @@ A project analyzing historical data of Chuks medium-sized retail store to find g
 - [Tools and Technologies](#Tools-and-Technologies)
 
 ## Project Overview
-
+<div style="text-align: justify;">
 Chuks is a successful retail business owner who has built a profitable store over the past few years. His first store has grown steadily, generating strong revenue, loyal customers, and consistent product demand.
 
 Now, Chuks is planning to expand his business by opening a second store in a nearby location. However, instead of starting from scratch and making costly trial-and-error decisions, he wants to learn from the performance of his existing store.
