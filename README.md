@@ -146,5 +146,5 @@ By executing these insights, Chuks can significantly reduce the risk of expansio
 > *Let data, not assumptions, drive expansion decisions.*
 ---
 
-                                               **Back to Top**
-                                    ### [Table of Content](#Table-of-Content)
+**Back to Top**
+### [Table of Content](#Table-of-Content)
