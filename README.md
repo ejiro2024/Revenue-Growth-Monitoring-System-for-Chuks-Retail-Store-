@@ -30,7 +30,7 @@ By analyzing sales performance, customer behavior, product trends, and seasonal 
 - When to expect peak and low sales periods
 - How revenue is actually being generated in the business
 
-The goal is to turn historical store data into a **blueprint for scaling successfully**, reducing risk and improving decision-making for expansion.
+> **The goal is to turn historical store data into a **blueprint for scaling successfully**, reducing risk and improving decision-making for expansion.**
 ---
 
 ## Dashboard Overview
