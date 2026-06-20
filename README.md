@@ -114,12 +114,13 @@ Top Customer contributors to revenue include:
   
 2- Data Cleaning & Transformation
 
-   Raw Data                                  
- ![raw_data](raw_data.PNG)           
+Raw Data
 
+![raw_data](raw_data.PNG)           
 
-   Clean Data
-  ![cleaned_data](cleaned_data.PNG)
+Clean Data
+
+![cleaned_data](cleaned_data.PNG)
 
 3- Dashboard Design & Storytelling
 
