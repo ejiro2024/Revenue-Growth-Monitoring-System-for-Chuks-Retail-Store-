@@ -1,4 +1,4 @@
-# Revenue-Growth-Monitoring-System-for-Chuks-Retail-Store-
+# Revenue-Growth-Monitoring-System-for-Chuks-Retail-Store
 A project analyzing historical data of Chuks medium-sized retail store to find growth opportunities.
 ---
 ![images(2)](images(2).jpeg)
