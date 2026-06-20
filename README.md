@@ -9,7 +9,7 @@ A project analyzing historical data of Chuks medium-sized retail store to find g
 - [Dashboard Overview](#Dashboard-Overview)
 - [Key Insights](#Key-Insights)
 - [Business Recommendations](#Business-Recommendations)
-- [Tools & Technologies](#Tools-&-Technologies)
+- [Tools and Technologies](#Tools-and-Technologies)
 
 ## Project Overview
 
@@ -107,7 +107,7 @@ Top contributors to revenue include:
 
 ---
 
-## Tools & Technologies
+## Tools and Technologies
 - Power BI / Excel (Data Visualization)
 - Data Cleaning & Transformation
 - Dashboard Design & Storytelling
