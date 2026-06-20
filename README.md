@@ -108,14 +108,19 @@ Top contributors to revenue include:
 ---
 
 ## Tools and Technologies
-- Power BI / Excel (Data Visualization)
+1- Power BI / Excel (Data Visualization)
   ![table_view](table_view.PNG)
   
-- Data Cleaning & Transformation
-        Raw Data                                  Clean Data
- ![raw_data](raw_data.PNG)           ![cleaned_data](cleaned_data.PNG)
-  
-- Dashboard Design & Storytelling
+2- Data Cleaning & Transformation
+
+   Raw Data                                  
+ ![raw_data](raw_data.PNG)           
+
+
+   Clean Data
+  ![cleaned_data](cleaned_data.PNG)
+
+3- Dashboard Design & Storytelling
 
 ---
 
