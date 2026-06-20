@@ -55,6 +55,7 @@ The goal is to turn historical store data into a **blueprint for scaling success
 - Other top categories range between **85K – 35K**.
 
 **Insight:** Revenue is concentrated in a few key categories.
+
 **Recommendation:** Focus marketing and inventory investment on top-performing categories.
 
 ---
@@ -87,7 +88,7 @@ The goal is to turn historical store data into a **blueprint for scaling success
 ---
 
 ### Revenue Drivers
-Top contributors to revenue include:
+Top Customer contributors to revenue include:
 - **6BZ – 29.42%**
 - **SJS – 21.96%**
 - **LPF – 21.9%**
