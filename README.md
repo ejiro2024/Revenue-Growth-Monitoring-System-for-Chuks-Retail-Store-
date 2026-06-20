@@ -109,10 +109,10 @@ Top Customer contributors to revenue include:
 ---
 
 ## Tools and Technologies
-1- Power BI / Excel (Data Visualization)
+1- Power BI / Excel (Data Transformation & Visualization)
   ![table_view](table_view.PNG)
   
-2- Data Cleaning & Transformation
+2- Data Cleaning 
 
 Raw Data
 
